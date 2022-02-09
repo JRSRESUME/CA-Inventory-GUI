@@ -1,0 +1,34 @@
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.exe.config
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.XmlSerializers.dll
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.csproj.GenerateResource.Cache
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.exe
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.pdb
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.XmlSerializers.dll
+C:\Users\EL CULO\Documents\Visual Studio 2010\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.exe.config
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.exe
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.pdb
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.XmlSerializers.dll
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.exe
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.XmlSerializers.dll
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.pdb
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.csprojResolveAssemblyReference.cache
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\EL CULO\Desktop\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.csproj.GenerateResource.Cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.exe.config
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.XmlSerializers.dll
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\bin\Release\Channeladvisor Inventory View.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.csprojAssemblyReference.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.csproj.GenerateResource.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.csproj.CoreCompileInputs.cache
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.exe
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.pdb
+C:\Users\ToePunch\Downloads\Projects\Projects\Channeladvisor Inventory View\Channeladvisor Inventory View\obj\x86\Release\Channeladvisor Inventory View.XmlSerializers.dll
